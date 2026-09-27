@@ -1,18 +1,12 @@
-# Zion App Network — Interlinks
+# Zion App Network — Interlinks for sli-slo-tracker
 
-SLI/SLO Tracker is part of the **Zion App Network** by Zion Tech Group — a constellation of interconnected AI applications.
+SLI/SLO Tracker is part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com) — 700+ interlinked AI apps.
 
-## Explore the network
-- [Zion App Network Hub](https://ziontechgroup.com/zion-app-network/)
-- [Zion Tech Group Homepage](https://ziontechgroup.com/)
-- [AI Infrastructure Monitor](https://ziontechgroup.com/ai-infrastructure-monitor/)
-- [AI Cluster Manager](https://ziontechgroup.com/ai-cluster-manager/)
-- [Incident Runbook Generator](https://ziontechgroup.com/zion-ai-incident-runbook/)
-- [AI Incident Commander](https://ziontechgroup.com/incident-commander-ai/)
-- [Release Risk Radar](https://ziontechgroup.com/release-risk-radar/)
-- [Chaos Engineering AI](https://ziontechgroup.com/chaos-engineering-ai/)
-- [On-Call Optimizer](https://ziontechgroup.com/oncall-optimizer-ai/)
-- [Deployment Guardian](https://ziontechgroup.com/deployment-guardian-ai/)
+- Live app: https://ziontechgroup.com/sli-slo-tracker/
+- Hub repo: https://github.com/Zion-support/zion-app-network · Master interlink map: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS.md
+- Batch 55 spotlight (SRE, Reliability & Incident Response): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH55.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch55-sept27.html
 
----
-© 2026 Zion Tech Group — https://ziontechgroup.com
+## Related reliability apps
+[Release Risk Radar](https://ziontechgroup.com/release-risk-radar/) · [Deployment Guardian AI](https://ziontechgroup.com/deployment-guardian-ai/) · [Incident Commander AI](https://ziontechgroup.com/incident-commander-ai/) · [Zion AI Incident Runbook](https://ziontechgroup.com/zion-ai-incident-runbook/) · [Chaos Engineering AI](https://ziontechgroup.com/chaos-engineering-ai/) · [On-call Optimizer AI](https://ziontechgroup.com/oncall-optimizer-ai/)
+
+© 2026 Zion Tech Group · https://ziontechgroup.com
